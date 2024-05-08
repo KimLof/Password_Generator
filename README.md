@@ -31,7 +31,7 @@ This is a simple password generator application built using Python and Tkinter. 
 4. Run the application:
 
     ```bash
-    python password_generator.py
+    python main.py
     ```
 
 ## Usage
